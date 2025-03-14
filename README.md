@@ -15,6 +15,7 @@
 
 ## 📊 GitHub Stats & 🌍 Visitor Map  
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelenlv&theme=tokyonight" />
-  <img width="48%" src="https://www.clustrmaps.com/map_v2.png?d=XsHt1RGQOuYeoXyDvrecT3LQdFnssCT3rfkOXXSCPKU&cl=ffffff" />
+  <img width="48%" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=kelenlv&theme=tokyonight" />
+  <img width="48%" height="250" src="https://www.clustrmaps.com/map_v2.png?d=XsHt1RGQOuYeoXyDvrecT3LQdFnssCT3rfkOXXSCPKU&cl=ffffff" />
 </p>
+
