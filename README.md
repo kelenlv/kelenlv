@@ -5,14 +5,14 @@
 - 💼 **Algorithm Engineer@ChinaMobile**  
 - 💡 Interests: **LLM, Distributed Algorithms, Machine Learning**  
 - 🌍 Languages: **English, 中文**  
-- 🎯 Favorite Tools:  
-  ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-  ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat)
+- 🎯 Tools:
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=Mathworks&logoColor=white&style=flat)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kelenlv&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kelenlv&theme=tokyonight" />
 </p>
 
